@@ -2,4 +2,14 @@
     <string name="app_name">Android Recruit Test</string>
     <string name="search_hint">Search...</string>
     <string name="empty_list">No items to show...</string>
+    <string name="title_please_wait">Please wait</string>
+    <string name="title_processing">Processing...</string>
+    <string name="title_alert">Alert</string>
+    <string name="title_internet_problem">There is no or poor internet connection. Please connect to stable internet connection and try again.</string>
+    <string name="exception_invalid_response">We are unable to process your request at the moment. Please try again later.</string>
+    <string name="exception_time_out">This seems to be taking longer than usual. Please try again later.</string>
+    <string name="FETCHING_DETAILS_PROBLEM">Unable to fetch required details</string>
+    <string name="title_description">Description</string>
+    <string name="title_name">Name</string>
+    <string name="title_search">Search...</string>
 </resources>
